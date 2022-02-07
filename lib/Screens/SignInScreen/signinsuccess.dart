@@ -29,7 +29,7 @@ class SignInSuccess extends StatelessWidget {
         ),
         const Heading("You are now logged in!"),
         const SizedBox(
-          height: 35,
+          height: 25,
         ),
         const ProfileBtn(),
       ])),

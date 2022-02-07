@@ -29,7 +29,7 @@ class SignUpSuccess extends StatelessWidget {
         ),
         const Heading("Your account has been successfully created!"),
         const SizedBox(
-          height: 35,
+          height: 25,
         ),
         const ProfileBtn(),
       ])),

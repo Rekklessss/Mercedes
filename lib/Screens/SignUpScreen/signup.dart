@@ -123,7 +123,7 @@ class NameInput extends StatelessWidget {
                   spreadRadius: 0,
                   color: Colors.grey.withOpacity(.1)),
             ]),
-            child: TextField(
+            child: TextField(            
               onChanged: (value) {
               },
               style: const TextStyle(fontSize: 14, color: Colors.white),

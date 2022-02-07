@@ -1,7 +1,7 @@
 # Mercedes
 
 A new Flutter project.
-Edit 2
+Version 2
 
 ## Getting Started
 

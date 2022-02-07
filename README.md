@@ -1,4 +1,4 @@
-# Mercedessss
+# Mercedes
 
 A new Flutter project.
 

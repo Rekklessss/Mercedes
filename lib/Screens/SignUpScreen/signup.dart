@@ -139,7 +139,7 @@ class NameInput extends StatelessWidget {
                   borderRadius: BorderRadius.all(Radius.circular(10.0)),
                 ),
                 focusedBorder: const OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.white, width: 0.0),
+                  borderSide: BorderSide(color: Color(0xFF03BFB5), width: 0.0),
                   borderRadius: BorderRadius.all(Radius.circular(10.0)),
                 ),
               ),
@@ -196,7 +196,7 @@ class EmailInput extends StatelessWidget {
                   borderRadius: BorderRadius.all(Radius.circular(10.0)),
                 ),
                 focusedBorder: const OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.white, width: 0.0),
+                  borderSide: BorderSide(color: Color(0xFF03BFB5), width: 0.0),
                   borderRadius: BorderRadius.all(Radius.circular(10.0)),
                 ),
               ),
@@ -254,7 +254,7 @@ class PasswordInput extends StatelessWidget {
                   borderRadius: BorderRadius.all(Radius.circular(10.0)),
                 ),
                 focusedBorder: const OutlineInputBorder(
-                  borderSide: BorderSide(color: Colors.white, width: 0.0),
+                  borderSide: BorderSide(color: Color(0xFF03BFB5), width: 0.0),
                   borderRadius: BorderRadius.all(Radius.circular(10.0)),
                 ),
               ),
